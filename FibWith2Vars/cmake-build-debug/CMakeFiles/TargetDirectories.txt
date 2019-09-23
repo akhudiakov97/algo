@@ -1,0 +1,3 @@
+/home/ahoodiakov/CLionProjects/FibWith2Vars/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahoodiakov/CLionProjects/FibWith2Vars/cmake-build-debug/CMakeFiles/FibWith2Vars.dir
+/home/ahoodiakov/CLionProjects/FibWith2Vars/cmake-build-debug/CMakeFiles/edit_cache.dir

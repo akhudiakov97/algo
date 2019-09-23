@@ -1,0 +1,3 @@
+/home/ahoodiakov/CLionProjects/ReverseNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahoodiakov/CLionProjects/ReverseNumber/cmake-build-debug/CMakeFiles/ReverseNumber.dir
+/home/ahoodiakov/CLionProjects/ReverseNumber/cmake-build-debug/CMakeFiles/edit_cache.dir

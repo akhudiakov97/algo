@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ReverseNumberWithoutStr.dir/main.cpp.o  -o ReverseNumberWithoutStr 

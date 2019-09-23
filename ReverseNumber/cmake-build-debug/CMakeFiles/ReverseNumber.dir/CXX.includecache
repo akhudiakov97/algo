@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ahoodiakov/CLionProjects/ReverseNumber/main.cpp
+iostream
+-
+string.h
+-
+bits/stdc++.h
+-
+
